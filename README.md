@@ -1,3 +1,1 @@
-[![Qanpi's GitHub stats](https://github-readme-stats.vercel.app/api?username=qanpi&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qanpi&layout=compact&size_weight=0.5&hide=ShaderLab&theme=prussian)
+Oxford PPE student and machine learning engineer with industry experience building ML and data products. National competitive programming finalist (C++) and national research finalist (synthetic data for computer vision).
